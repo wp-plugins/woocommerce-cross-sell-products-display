@@ -12,7 +12,7 @@ Allow to display cross sell products on single product page.
 == Description ==
 
 Allow to display cross sell products on single product page.
-* Shortcode [wcsp_cross_sell orderby="rand” order=“ASC” product_num=“5” display_columns=“3” title=“Some title..”]
+* Shortcode [wcsp_cross_sell orderby="rand” order=“ASC” product_num=“5” display_columns=“3” title=“Some title..” category=“Category ID”]
 
 
 == Installation ==
